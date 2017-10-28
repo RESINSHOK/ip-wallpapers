@@ -1,36 +1,18 @@
 {
-	"Wallpapers":
+    "Wallpapers":
         [
-			{
-				"author": "Taken from gadgetraid 44",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.png",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5TkZ0amk4TGZWYkU",
-				"name": "Nougat Wallpaper 1"
+	    {
+		"author": "Taken from gadgetraid",
+		"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.png",
+		"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5TkZ0amk4TGZWYkU",
+		"name": "Nougat Wallpaper 1"
 
-			},
-			{
-				"author": "Taken from gadgetraid 22",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-2.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WTh5X054ZHJocmM",
-				"name": "Nougat Wallpaper 2"
-			},
-			{
-				"author": "Taken from gadgetraid",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-3.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5d0xqb3ktUzRQZDg",
-				"name": "Nougat Wallpaper 3"
-			},
-			{
-				"author": "Taken from gadgetraid",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-4.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5cGd5cElXQjA4Sk0",
-				"name": "Nougat Wallpaper 4"
-			},
-			{
-				"author": "Taken from gadgetraid",
-				"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-1.jpg",
-				"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5SWFHM3A5RE1DMms",
-				"name": "Nougat Wallpaper 5"
-			},
-		]
+	    },
+	    {
+                "author": "Taken from gadgetraid",
+		"url": "http://www.gadgetraid.com/wp-content/uploads/2016/07/android-n-nougat-wallpaper-2.jpg",
+		"thumbUrl": "https://drive.google.com/uc?id=0B0f4ypHfNKm5WTh5X054ZHJocmM",
+		"name": "Nougat Wallpaper 2"
+	    }
+        ]
 }
